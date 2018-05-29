@@ -1,1 +1,31 @@
 
+{
+ "voices": [
+        {
+            "name": "李云龙语音包",
+            "details": [
+        {
+            "name": "开炮",
+            "details": "https://raw.githubusercontent.com/fxinxiu/yuyin/master/liyunlong/%E5%BC%80%E7%82%AE.mp3"
+        },
+        {
+            "name": "龙哥骂人语段",
+            "url": "https://raw.githubusercontent.com/fxinxiu/yuyin/master/liyunlong/%E9%BE%99%E5%93%A5%E9%AA%82%E4%BA%BA%E8%AF%AD%E6%AE%B5.mp3"
+        }
+    ]
+        },
+        {
+            "name": "李云龙语音包",
+            "details": [
+        {
+            "name": "开炮",
+            "details": "https://raw.githubusercontent.com/fxinxiu/yuyin/master/liyunlong/%E5%BC%80%E7%82%AE.mp3"
+        },
+        {
+            "name": "龙哥骂人语段",
+            "url": "https://raw.githubusercontent.com/fxinxiu/yuyin/master/liyunlong/%E9%BE%99%E5%93%A5%E9%AA%82%E4%BA%BA%E8%AF%AD%E6%AE%B5.mp3"
+        }
+    ]
+        }
+    ]
+}
